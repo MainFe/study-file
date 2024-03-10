@@ -1,0 +1,127 @@
+-1.14-windows.xml
+3D 객체/
+안셀/
+앱데이터/
+애플리케이션 데이터@
+오토데스크/
+band2.dat
+band3.dat
+band4.dat
+band8.dat
+콘택트 렌즈/
+쿠키@
+데스크탑/
+서류/
+다운로드/
+즐겨찾기/
+Foxit Reader SDK ActiveX.ini
+간트프로젝트.log
+간트프로젝트.log.1
+idea.updater.files11064287235131869628marker
+IDL작업공간/
+inst.ini
+java0.log
+java1.log
+연결/
+지역 설정@
+로그.txt
+MicrosoftEdgeBackups/
+음악/
+내 문서@
+넷후드@
+NT사용자.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{4a8736a3-81be-11ec-86fc-00d8611102f1}.TM.blf
+NTUSER.DAT{4a8736a3-81be-11ec-86fc-00d8611102f1}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{4a8736a3-81be-11ec-86fc-00d8611102f1}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+nuuid.ini
+원드라이브/
+영화/
+폴리곤/
+프린트후드@
+최근의@
+복구된 데이터 09-25 20_29_20/
+복구된 데이터 09-25 20_30_17/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC_Cal.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC_Cal.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_ML.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Spk.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Spk.dim
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi.data/
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi.dim
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_resampled_ndvi.data/
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_resampled_ndvi.dim
+저장된 게임/
+검색/
+보내기@
+설정 완료.html
+원천/
+subset_0_of_S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi_kmeans.data/
+subset_0_of_S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi_kmeans.dim
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_kmeans.data/
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_kmeans.dim
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected.data/
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected.dim
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected_MLClass.data/
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected_MLClass.dim
+subset_1_of_S2A_MSIL1C_20171213T185421_N0206_R070_T11SKU_20171213T202128_kmeans.data/
+subset_1_of_S2A_MSIL1C_20171213T185421_N0206_R070_T11SKU_20171213T202128_kmeans.dim
+템플릿@
+useruid.ini
+동영상/
+vmlog/
+Webstorm프로젝트/
+새 폴더/
+메뉴를 시작하다@
+현장실습2_101급(미지정) - 한국어.pdf
+[?1049h [22;0;0t [>4;2m [?1h = [?2004h [?1004h [?1;17r [?12h [?12l [22;2t [22;1t [27m [23m [29m [] m [H [2J [?25l [17;1H"log.txt" [unix] 198L, 7604B [1;1H-1.14- windows.xml
+3D 객체/
+안셀/
+앱데이터/
+애플리케이션 데이터@
+오토데스크/
+band2.dat
+band3.dat
+band4.dat
+band8.dat
+콘택트 렌즈/
+쿠키@
+데스크탑/
+서류/
+다운로드/
+[1m [7mlog.txt [unix] (22:14 08/03/2024) 1,1 상위 [1;1H [?25h [?25l [m [17;129H^[ [ 1;1H [17;129H [ 1;1H [17;129H^[ [1;1H [?5h [?25h [?5l [?25l [17;129H [1; 1H [?25h [?25l [17;129H^M [1;1H [17;129H [2;1H [16;133H [1m [7m2, [2;1H] ?25h [?25l [m [17;129H ^M [2;1H [17;129H [3;1H [16;133H [1m [7m3, [3;1H [ ?25h [?25l [m [17;129H^M [3;1H [17;129H [ 4;1H [16;133H [1m [7m4, [4;1H [ ?25h [?25l [m [17;129H^M [4;1H [17;129H [5;1H [16;133H [1m [7m5 , [5;1H [ ?25h [?25l [m [17;129H^M [5;1H [17;129H [6;1H [16;133H [1m [7m6, [6;1H [ ?25h [?25l] [m [17;129H^M [6;1H [17;129H [7;1H [16;133H [1m [7m7, [7;1H] ?25h [?25l [m [17;129H~@k [7] ;1H [17;129H [6;9H [16;133H [1m [7m6,9 [6;9H [?25h [?25l [m [17;129H~@k [6;9H [17;129H [6; 8H [16;135H [1m [7m8 [6;8H [?25h [?25l [m [17;129H~@k [6;8H [17;129H [6;7H [16;135H [1m [7m7 [6 ;7H [?25h [?25l [m [17;129H~@k [6;7H [17;129H [6;6H [16;135H [1m] [7m6 [6;6H [?25h [?25l [m [ 17;129H~@k [6;6H [17;129H [6;5H [16;135H [1m [7m5 [6;5H [?25h [?25l [m [17;129H~@k [6;5H [ 17;129H [6;4H [16;135H [1m [7m4 [6;4H [?25h [?25l [m [17;129H~@k [6;4H [17;129H [6;3H [16;135H) [1m [7m3 [6;3H [?25h [?25l [m [17;129H~@k [6;3H [17;129H [6;2H [16;135H [1m [7m2 [6;2H [?25h [?25l [m [17;129H~@k [6;2H [17;129H [6;1H [16;135H [1m] [7m1 [6;1H [?25h [?25l [m [17;129H~@ k [6;1H [17;129H [5;17H [16;132H [1m [7m5,17 [5 ;17H [?25h [?25l [m [17;129H~@k [5;17H [17;129H) [5;16H [16;135H [1m [7m6 [5 ;16H [?25h [?25l [m [17;129H~@k [5;16H [17;129H [5;15H [16;135H [1m [ 7m5 [5 ;15H [?25h [?25l [m [17;129H~@k [5;15H [17;129H [5;14H [16;135H [1m] [7m4 [5 ;14H [?25h [?25l [m [17;129H~@k [5;14H [17;129H [5;13H [16;135H [1m [7m3 [5 ;13H [?25h [?25l [m [17;129H^[5; 13H [17;129H [5;13H [17;129H^[ [5;13H [? 5h [?25h [?5l [?25l [17;129H [5;13H [?25h [?25l [17;129H: [5;13H [17;1H [K [17;1H: [?25hwq [?25l [17;3H [K [17;3H [?25h [?25l [17;2H [K [17;2H [ ?25hq
+[?25l [?2004l [>4;m] [23;2t [23;1t [17;1H [K [17;1H [?1004l [?2004l [?1l > [?25h [>4;m [?1049l] [23;0;0t라이센스
+로그.txt
+npm/  Usage: nodemon [nodemon options] [script.js] [args]
+
+  See "nodemon --help" for more.
+
+C:\Users\sunwo\Desktop\github.io\study-file
+└── (empty)
+
+
+added 33 packages in 3s
+
+3 packages are looking for funding
+  run `npm fund` for details
+  Usage: nodemon [nodemon options] [script.js] [args]
+
+  See "nodemon --help" for more.
+
+study-file@ C:\Users\sunwo\Desktop\github.io\study-file
+└── nodemon@3.1.0
+
+  Usage: nodemon [nodemon options] [script.js] [args]
+
+  See "nodemon --help" for more.
+

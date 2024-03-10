@@ -1,0 +1,444 @@
+[33m[nodemon] 2.0.19[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+Hello World
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Hello World
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Hello World
+Hello
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Hello World
+Hello
+C:\Users\sunwo\Desktop\github.io\study-file\npm\index.js
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Hello World
+Hello
+C:\Users\sunwo\Desktop\github.io\study-file\npm\index.js
+C:\Users\sunwo\Desktop\github.io\study-file\npm
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: undefined
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: undefined
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+user: { id: 1, name: 'User1', email: '1@test.com' }
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+15
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+01,2,3,4,5
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+01,2,3,4,5
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+15
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+15
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+15
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+15
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+01,2,3,4,5
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 2 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+User 3 made a request
+Database operation takes 5 seconds
+Data delivered to the user
+Queried the database and delivered data in 5 seconds
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+Database operation takes 5 seconds
+User 2 made a request
+User 3 made a request
+Queried the database and delivered data in 5 seconds
+Queried the database and delivered data in 5 seconds
+Queried the database and delivered data in 5 seconds
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+User 1 made a request
+User 2 made a request
+User 3 made a request
+Queried the database and delivered data in 5 seconds
+Queried the database and delivered data in 5 seconds
+Queried the database and delivered data in 5 seconds
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+
+./
+../
+.atom/
+.bash_history
+.bash_profile
+.BigNox/
+.cache/
+.config/
+.dotnet/
+.emulator_console_auth_token
+.espider/
+.ganttproject
+.ganttproject.d/
+.gitconfig
+.idl/
+.idlerc/
+.lesshst
+.m2/
+.matplotlib/
+.node_repl_history
+.Origin/
+.pm2/
+.polyrhythmmania/
+.qtemu/
+.QtWebEngineProcess/
+.rnd
+.snap/
+.ssh/
+.templateengine/
+.thumbnails/
+.viminfo
+.vivaldi_reporting_data
+.vscode/
+-1.14-windows.xml
+3D Objects/
+ansel/
+AppData/
+Application Data@
+Autodesk/
+band2.dat
+band3.dat
+band4.dat
+band8.dat
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Foxit Reader SDK ActiveX.ini
+ganttproject.log
+ganttproject.log.1
+idea.updater.files11064287235131869628marker
+IDLWorkspace/
+inst.ini
+java0.log
+java1.log
+Links/
+Local Settings@
+MicrosoftEdgeBackups/
+Music/
+My Documents@
+NetHood@
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{4a8736a3-81be-11ec-86fc-00d8611102f1}.TM.blf
+NTUSER.DAT{4a8736a3-81be-11ec-86fc-00d8611102f1}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{4a8736a3-81be-11ec-86fc-00d8611102f1}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+nuuid.ini
+OneDrive/
+Pictures/
+Poliigon/
+PrintHood@
+Recent@
+Recovered data 09-25 20_29_20/
+Recovered data 09-25 20_30_17/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC_Cal.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Cal_ML_Spk_TC_Cal.dim
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_ML.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Spk.data/
+S1B_IW_GRDH_1SDV_20200117T212357_20200117T212430_019862_025907_6B93_Spk.dim
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi.data/
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi.dim
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_resampled_ndvi.data/
+S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_resampled_ndvi.dim
+Saved Games/
+Searches/
+SendTo@
+setup-finish.html
+source/
+subset_0_of_S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi_kmeans.data/
+subset_0_of_S2B_MSIL2A_20200110T021039_N0213_R103_T52SDD_20200110T044255_resampled_ndvi_kmeans.dim
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_kmeans.data/
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_kmeans.dim
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected.data/
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected.dim
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected_MLClass.data/
+subset_0_of_S2B_MSIL2A_20200608T020659_N0214_R103_T52SDE_20200608T045438_resampled_reprojected_MLClass.dim
+subset_1_of_S2A_MSIL1C_20171213T185421_N0206_R070_T11SKU_20171213T202128_kmeans.data/
+subset_1_of_S2A_MSIL1C_20171213T185421_N0206_R070_T11SKU_20171213T202128_kmeans.dim
+Templates@
+useruid.ini
+Videos/
+vmlogs/
+WebstormProjects/
+새 폴더/
+시작 메뉴@
+현장실습2_101분반(미지정)-국문.pdf
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;17r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[17;1H".bash_profile" [unix] 1L, 27B[1;1H[38;5;130mexec[m [38;5;130m>[m [38;5;130m>[m[35m[106m([m[35mtee -a ./log.txt[m[35m[106m)[m
+[94m~                                                                                                                                          [3;1H~                                                                                                                                          [4;1H~                                                                                                                                          [5;1H~                                                                                                                                          [6;1H~                                                                                                                                          [7;1H~                                                                                                                                          [8;1H~                                                                                                                                          [9;1H~                                                                                                                                          [10;1H~                                                                                                                                          [11;1H~                                                                                                                                          [12;1H~                                                                                                                                          [13;1H~                                                                                                                                          [14;1H~                                                                                                                                          [15;1H~                                                                                                                                          [m[16;1H[1m[7m.bash_profile [unix] (22:12 08/03/2024)                                                                                            1,26 All[1;26H[?25h[?25l[m[17;129Hi[1;26H[17;129H [1;26H[17;1H[1m-- INSERT --[m[17;13H[K[1;26H[?25h[?25l[1;9H[35m([16C)[m[16;135H[1m[7m5 [1;25H[?25h[?25l[m[1;9H[35m[106m([16C)[m[16;135H[1m[7m6 [1;26H[?25h[?25l[16;135H7 [1;27H[?25h[?25l[16;135H6 [1;26H[?25h[?25l[m[1;9H[35m([16C)[m[16;135H[1m[7m5 [1;25H[?25h[16;135H4 [1;24H[16;135H3 [1;23H[16;135H2 [1;22H[16;135H1 [1;21H[16;135H0 [1;20H[16;134H19 [1;19H[16;135H8 [1;18H[16;135H7 [1;17H[16;135H6 [1;16H[16;135H5 [1;15H[16;135H4 [1;14H[16;135H3 [1;13H[16;135H2 [1;12H[16;135H1 [1;11H[?25l[m[35m[106m([16C)[m[16;135H[1m[7m0 [1;10H[?25h[?25l[16;132H 1,9 [1;9H[?25h[?25l[m[35m([m[35m[106mt[m[35mee -a ./log.txt[m[35m)[m[1;26H[K[16;14H[1m[7m[+] [unix] (22:12 08/03/2024)[92C8 [m[1;8H[35m[106m([m[35mt[m[15C[35m[106m)[1;8H[?25h[m[17;1H[K[1;7H[?25l[17;129H^[[1;7H[17;129H  [1;8H[35m([16C)[m[16;135H[1m[7m7 [1;7H[?25h[?25l[m[17;129H:[1;7H[17;129H[K[17;1H:[?25hwq[?25l[?2004l[>4;m".bash_profile" [unix] 1L, 26B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t  Usage: nodemon [nodemon options] [script.js] [args]
+
+  See "nodemon --help" for more.
+
